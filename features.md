@@ -4,7 +4,7 @@
     - Gestion des événements culturel passé
     - Gestion des musiques mises en avant 
 
-- Présentation du label et des ses artistes ----> Pour les auditeurs.rices
+- Présentation du label et des ses artistes ----> Pour les auditeurs.rices et les structures pro
 - Découverte et possibilité d'écouté de la mixtape collective et les projets individuels ----> Pour les auditeurs.rices
 - Mise en avant et vente du merch ----> Pour les auditeurs.rices
 - Documentation sur les événements passé (concerts, ateliers d'écriture, ...), mise en avant de photo ----> Pour les structures pro (MJC, salle de concert, lieu de résidence, ...)
