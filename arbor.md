@@ -13,6 +13,7 @@ pages :         route :
 . post          /post       (Optionnel)
 . contact       /contact    (Peut être en footer) (Mail)
 . dashboard     /dashboard 
+. concert       lien vers bandcamp
 
 
 

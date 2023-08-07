@@ -4,7 +4,8 @@ Contraintes :
     gestion du responsive :
 - Penser à bien rendre le site responsive sur portable pour les auditeurs.rices
 - Penser à la version desktop pour les structure pro
-- 
+- mobile First Obligatoire !!!!!
+
     sécurité :
 - Sécu des comptes 
 - Moyen de paiement
@@ -14,10 +15,12 @@ Contraintes :
 - Dyslexie
 - Non-voyant
 
+
     compatibilité navigateurs :
-- Pour le maximum de nav 
+- Pour le maximum de navigateur 
 
     obligations légales :
+    
 - Mentions légales : Les mentions légales doivent inclure des informations sur l'éditeur du site (nom, adresse, numéro de téléphone, adresse e-mail, etc.). Elles peuvent également inclure le numéro d'inscription au registre du commerce ou toute autre information légale requise par votre pays.
 
 - Politique de confidentialité : La politique de confidentialité doit expliquer comment vous collectez, utilisez, stockez et partagez les données personnelles des utilisateurs. Elle doit également informer les utilisateurs de leurs droits en matière de protection des données.
